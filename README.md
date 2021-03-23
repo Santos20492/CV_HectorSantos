@@ -1,6 +1,29 @@
-# Encabezado
+# Datos personales
 
-Hola, esto es un parrafo.
+- Héctor Santos Jerez
+- 17-03-2002
+- Santos20492@iesmarenostrum.com
+- 63856561
 
-Hola, esto es otro parrafo.
+# Formación académica
+- Educacion primaria
+- Autoescuela
+ 
+# Idiomas
+
+-Español
+- Básico
+
+# Habilidades / Conocimientos
+
+Muy diestro con los animales, capacitado de asistente en animales invalidos 
+
+# Proyectos personales
+
+Cuidados de animales invalidos y adiestramiento de perros.
+
+# Aficiones 
+
+Me encanta escuchar música en mi cuarto, usar el ordenador practicamente a todas horas y salir a correr y a jugar con mis animales.
+
 
