@@ -22,6 +22,8 @@ Muy diestro con los animales, capacitado de asistente en animales invalidos
 
 Cuidados de animales invalidos y adiestramiento de perros.
 
+[ver mis trabajos](trabajos.md)
+
 # Aficiones 
 
 Me encanta escuchar música en mi cuarto, usar el ordenador practicamente a todas horas y salir a correr y a jugar con mis animales.
