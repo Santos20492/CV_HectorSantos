@@ -29,4 +29,4 @@ Cuidados de animales invalidos y adiestramiento de perros.
 Me encanta escuchar música en mi cuarto, usar el ordenador practicamente a todas horas y salir a correr y a jugar con mis animales.
 
 
-[Mis videos](videos.md)   [Mis trabajos](trabajos.md)    [Mis fotos](fotos.md)
+[Mis videos](videos.md)   [Mis trabajos](trabajos.md)    [Mis fotos](imagenes.md)
