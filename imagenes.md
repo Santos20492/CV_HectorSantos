@@ -30,3 +30,4 @@
 
 ![Mario en fondo amarillo](./imagenes/mario_trabajo.png)
 
+[Mis trabajos](trabajos.md) [mis videos](videos.md) [curriculum](README.md)
