@@ -22,3 +22,4 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7Ns_h-o7S3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Canción de uno de los grandes en el mundo del rap
+[curriculum](README.md) [mis fotos](imagenes.md) [Mis trabajos](trabajos.md)
