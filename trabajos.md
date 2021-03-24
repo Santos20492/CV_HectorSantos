@@ -29,3 +29,4 @@
 -Ejercicio de la practica 4 
 
 [descargar archivo](./trabajos/practica_4.xlsx)
+[Mis fotos](imagenes.md)        [curriculum](README.md)                     [Mis videos](videos.md)
